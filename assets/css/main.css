@@ -1,0 +1,28 @@
+body{
+	margin: 4%;
+	background-color: azure;
+	font-size: 15pt
+}
+.big{
+	/* height: 2em; */
+	line-height: 24px;
+	margin: 0 0;
+	padding: 0;
+
+}
+.winner {
+	color:green;
+	font-size: 18pt;
+	margin: 0 ;
+	padding: 0;
+}
+
+button,input{
+	border: 1px black solid;
+	font-size: 1.1em;
+}
+
+#cheer{
+	padding-top: 20px;
+	display: none;
+}
