@@ -3,16 +3,11 @@ body{
 	background-color: azure;
 	font-size: 15pt
 }
-.big{
-	/* height: 2em; */
-	line-height: 24px;
-	margin: 0 0;
-	padding: 0;
 
-}
 .winner {
 	color:green;
-	font-size: 18pt;
+	line-height: 30px;
+	font-size: 50pt;
 	margin: 0 ;
 	padding: 0;
 }
