@@ -48,11 +48,10 @@ function reset(){
 	p2Display.classList.remove("winner");
 	cheer.style.display = "none";
 	gameOver = false;
-};
+}
 
 numInput.addEventListener("change", function(){
 	winningScoreDisplay.textContent = this.value;
 	winningScore = Number(this.value);
 	reset();
 });
-
