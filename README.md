@@ -3,7 +3,7 @@ First HTML and JS own project ever written by yours truly
 
 
 ## Screenshots
-![screenshot](img/scoreKeeper-poster.gif)
+![screenshot](img/poster-scoreKeeper.gif)
 
 
 ## Live Demo
